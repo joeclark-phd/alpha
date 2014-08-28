@@ -1,4 +1,4 @@
 alpha
 =====
 
-E-commerce team project
+This is our project basedo n chapter whatever blah blah blah.
